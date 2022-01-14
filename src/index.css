@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#name{
+  font-family: 'URW Chancery L', cursive;
+  font-weight: 500;
+  font-size:400;
+}
+
+#name2{
+  font-family: 'URW Chancery L', cursive;
+}
+
+#navbarDropdown{
+  font-family: 'URW Chancery L', cursive;
+}
+
+#image{
+  background-image: url('./images/bgimage.jpg');
+  background-size: cover;
+  height: 100%;
+}
+
+#navcolor{
+  background-color: rgb(43, 161, 43);
+}
+
+#button{
+  background-color: rgb(43, 161, 43);
+}
+
+/* #footer{
+  background-color: rgba(194, 204, 194, 0.479);
+  opacity: 0.8;
+} */
+
+#head{
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  font-style: italic;
+  font-weight: 500;
+  font-size: xx-large;
+  color: rgb(43, 161, 43);
+}
+
+#text{
+  color: rgb(43, 161, 43);
+}
